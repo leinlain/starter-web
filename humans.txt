@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alain lopez 	alain_lopez@live.com.mx
 
 # THANKS
 
